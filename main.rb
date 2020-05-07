@@ -7,7 +7,7 @@ for i in (0.. n- 1)
     row = []
     for j in (0..m - 1)
         val = gets.chomp.to_i;
-        row.push(val);
+        row.push(val)
     end
     a.push(row)
 end
